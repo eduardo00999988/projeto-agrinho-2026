@@ -1,7 +1,6 @@
 # AGRO SUSTENTÁVEL: CULTIVANDO INOVAÇÃO, COLHENDO FUTURO.
 
 Projeto desenvolvido para o concurso Agrinho.
-```markdown
 # 🌱 Agro Sustentável: Cultivando Inovação, Colhendo Futuro
 
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-for-the-badge)](https://img.shields.io/badge/license-MIT-green)
